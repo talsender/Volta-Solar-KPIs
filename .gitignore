@@ -1,0 +1,21 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.pytest_cache/
+data/history.json
+
+# Python
+.env
+venv/
+.venv/
+env/
+
+# Data files (may contain sensitive employee/KPI data)
+*.xlsx
+*.xls
+*.png
+*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
